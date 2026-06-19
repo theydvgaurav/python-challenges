@@ -1260,4 +1260,4 @@ print(occurrences)
 l = [oc[4] for oc in occurrences]
 
 print("".join(l))
-# linkedlist
+# Next One -> linkedlist

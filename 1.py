@@ -15,4 +15,4 @@ for ch in str:
 
 """i hope you didnt translate it by handd thats what computers are ford doing it in by hand is inefficient and thatws why this text is so longd using stringdmaketransxy is recommendedd now apply on the urld"""
 print(parsed_str)
-"ocr"
+# Next One ->ocr
